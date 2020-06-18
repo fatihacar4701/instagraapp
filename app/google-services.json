@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520075656309",
+    "firebase_url": "https://instegram-80e67.firebaseio.com",
+    "project_id": "instegram-80e67",
+    "storage_bucket": "instegram-80e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520075656309:android:792cf27420d22db8178c3c",
+        "android_client_info": {
+          "package_name": "com.fatihacar.instagraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520075656309-77m3kehlh36fjm9s00raa4uiejqc4873.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOXThsO4OthtpeuKBCl4tXQQsfQMMhqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520075656309-77m3kehlh36fjm9s00raa4uiejqc4873.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
